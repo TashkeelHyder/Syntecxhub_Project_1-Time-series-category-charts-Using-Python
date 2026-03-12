@@ -10,16 +10,19 @@ o	Quarterly: By aggregating data into quarters, I identified a consistent Q4 sur
 •	Visual Choice: Line Charts were used for both views to effectively visualize growth trends and contrast short-term fluctuations (monthly) with long-term cycles (quarterly).
  
 
+
 2.Category Performance & Market Share
 •	Objective: Use bar charts to compare categories and pie charts for market share.
 •	Insight: Technology is the dominant category, holding a 37.5% share of total sales.
 •	Visual Choice: * Bar Charts: Provided a clear baseline for comparing sales volume across Furniture, Office Supplies, and Technology.
 o	Pie Charts: Immediately identified which "slice" of the business generates the most revenue.
- 
+
+ 
 3. Product & Profitability Rankings
 •	Objective: Identify the Top 10 products by sales, the most selling products, and the most profitable categories.
 •	Findings: * Revenue Leaders: Apple Smart Phones and Cisco Smart Phones are the top revenue generators.
 o	Volume Leaders: Staples is the most frequently sold product by quantity.
+
 o	Profitability: Technology is the most profitable category ($663,778), with Copiers and Phones leading the sub-categories.
 4. Logistics & Shipping Preferences
 •	Objective: Identify the most preferred Ship Mode.
