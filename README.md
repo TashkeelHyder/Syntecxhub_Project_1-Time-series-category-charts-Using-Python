@@ -37,6 +37,7 @@ o	Profitability: Technology is the most profitable category ($663,778), with Cop
  
  
 Technologies Used
+
 •	Python: Primary analysis language.
 •	Pandas: For data cleaning and multi-level aggregations (Monthly/Quarterly).
 •	Matplotlib & Seaborn: For creating professional-grade visualizations.
